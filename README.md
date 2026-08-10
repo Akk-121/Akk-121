@@ -6,8 +6,9 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Mihail_Dmitriewich-blue?style=flat&logo=telegram)](https://t.me/Mihail_Dmitriewich)
 [![GitHub](https://img.shields.io/badge/GitHub-Akk--121-181717?style=flat&logo=github)](https://github.com/Akk-121/)
-[![GitLab](https://img.shields.io/badge/GitLab-собственный_сервер-orange?style=flat&logo=gitlab)](https://gitlab.m-sour.ru/my/yorself)
+[![GitLab](https://img.shields.io/badge/GitLab-orange?style=flat&logo=gitlab)](https://gitlab.m-sour.ru/my/yorself)
 [![HeadHunter](https://img.shields.io/badge/HeadHunter-резюме-red?style=flat&logo=hh)](https://hh.ru/resume/e3b9369aff098191e90039ed1f58726530354f?hhtmFrom=applicant_profile)
+[![Website](https://img.shields.io/badge/Сайт-4f8cf7?style=flat&logo=google-chrome&logoColor=white)](https://m-sour.ru)
 
 ---
 
